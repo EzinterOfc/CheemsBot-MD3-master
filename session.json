@@ -3,7 +3,7 @@
     "noiseKey": {
       "private": {
         "type": "Buffer",
-        "data": "IHuDsxDjAc76oEAlNMmMZjkwvFPVzlei/LaancdvM30="
+/LaancdvM30="
       },
       "public": {
         "type": "Buffer",
@@ -126,8 +126,8 @@
           "data": "kCmWsAwKTpisPRUeMhN/wUIfJiUWM0qXwI0n1Wi6OGg="
         },
         "public": {
-          "type": "Buffer",
-          "data": "Bjd7oKfDpda+TiY1kAbTsORWISSDPyZbiyf7EZlOSC8="
+  
+       ="
         }
       },
       "7": {
@@ -192,6 +192,7 @@
       },
       "13": {
         "private": {
+          
           "type": "Buffer",
           "data": "SIN/DLoWnLPtPOc7l44kYsLZZV3W0AojLTDv32BxvFQ="
         },
@@ -584,8 +585,7 @@
           "currentIndex": 11,
           "deviceIndexes": [
             0,
-            7,
-            8,
+                    8,
             10,
             11
           ]
@@ -595,18 +595,4 @@
       "AAAAAKJq": {
         "keyData": "ZEf9UAXTEKHmfU/y+amiqpHEpjNkyz3N3Bp2illr65U=",
         "fingerprint": {
-          "rawId": 1953782275,
-          "currentIndex": 12,
-          "deviceIndexes": [
-            0,
-            7,
-            10,
-            11,
-            12
-          ]
-        },
-        "timestamp": "0"
-      }
-    }
-  }
-}
+         
