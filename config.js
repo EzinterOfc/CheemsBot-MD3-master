@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6282252285143'] //ur owner number
-global.ownername = "RyanXd404"
+global.owner = ['6282252285143','6285693650294'] //ur owner number
+global.ownername = "NeoXd404"
 global.ytname = "YT: -" //ur yt chanel name
-global.socialm = "GitHub: RyanStore" //ur github or insta name
-global.location = "Indonesia, JawaBarat, Bandung" //ur location
+global.socialm = "GitHub: EzinterOfc" //ur github or insta name
+global.location = "Indonesia, Jawatimur, Kediri" //ur location
 
 //bot bombdy
-global.botname = "Executed BotZ" //ur bot name
-global.websitex = "https://instagram.com/ryannn.store" //ur website
+global.botname = "Neo BotZ" //ur bot name
+global.websitex = "https://instagram.com/rafilukmanufaizal" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Yannnnn Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "Yann-404"
+global.packname = "Neo Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "Neo-404"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['6282252285143'] //ur owner tag
-global.ownernummenu = ['6282252285143'] //ur owner number in menu and all
-global.watermark = "YanZ BotZ Inc." //ur watermark
-global.botscript = "https://github.com/RyanStore"
-global.linkz1 = "https://chat.whatsapp.com/BvwLZPkx6rm26ZGzNtPApi"
-global.linkz2 = "https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ"
+global.ownertag = ['6285600380823','6285693650294'] //ur owner tag
+global.ownernummenu = ['6285600380823','6285693650294'] //ur owner number in menu and all
+global.watermark = "Neo BotZ Inc." //ur watermark
+global.botscript = "https://github.com/EzinterOfc"
+global.linkz1 = "https://chat.whatsapp.com/DnOeCnfvCvREjasisjOCpU"
+global.linkz2 = "https://chat.whatsapp.com/DMqCCHW4Uvb2Kd4Cpus1vC"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -123,7 +123,7 @@ global.limitawal = {
 }
 global.limitawal = {
     rakyat: "Infinity",
-    free: 100
+    free: 35
 }
 // api website by xenz
 global.APIs = {
